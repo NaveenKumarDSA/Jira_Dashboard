@@ -13,7 +13,7 @@ You can view my full portfolio here:
 
 <h2> Jira.pbix File</h2>
  
- **Connect with me** **:**
+ **Connect with me** **:** for .pbix file
  
  [<img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn" />](https://www.linkedin.com/in/naveen-kumar-thumu/)
  [<img src="https://img.icons8.com/ios-filled/30/000000/domain.png" alt="Website" />](https://ntechhubedu.com/)
